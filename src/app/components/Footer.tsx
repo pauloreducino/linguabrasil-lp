@@ -44,9 +44,7 @@ export default function Footer() {
             {/* Social links */}
             <div className="flex gap-3">
               <a
-                href={`https://instagram.com/${IG_HANDLE}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#"
                 className="w-10 h-10 rounded-xl flex items-center justify-center transition-all duration-300 hover:scale-110"
                 style={{ backgroundColor: "rgba(255,255,255,0.1)" }}
                 aria-label="Follow us on Instagram"
@@ -110,9 +108,7 @@ export default function Footer() {
                 <span>WhatsApp · Chat with Ana</span>
               </a>
               <a
-                href={`https://instagram.com/${IG_HANDLE}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#"
                 className="flex items-center gap-2 text-white/60 text-sm hover:text-white transition-colors"
               >
                 <span>📸</span>
