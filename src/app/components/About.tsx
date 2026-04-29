@@ -103,7 +103,7 @@ export default function About() {
             >
               With over 8 years of experience teaching online, I&apos;ve
               developed a unique immersive method that helps students go from
-              complete beginners to confidently having real conversations — much
+              complete beginners to confidently having real conversations, much
               faster than traditional approaches.
             </p>
 

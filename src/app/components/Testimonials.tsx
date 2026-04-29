@@ -17,7 +17,7 @@ const testimonials = [
     months: 6,
     rating: 5,
     photo: "MW",
-    text: "I had studied Portuguese elsewhere but always sounded robotic. Ana taught me how Brazilians actually talk — the contractions, the slang, the rhythm. Now people in Brazil think I've lived there. Incredible!",
+    text: "I had studied Portuguese elsewhere but always sounded robotic. Ana taught me how Brazilians actually talk: the contractions, the slang, the rhythm. Now people in Brazil think I've lived there. Incredible!",
   },
   {
     name: "Yuki Tanaka",
@@ -131,7 +131,7 @@ export default function Testimonials() {
             style={{ color: "var(--color-muted)" }}
           >
             Real stories from real students across the globe. No scripts, no
-            actors — just honest experiences.
+            actors. Just honest experiences.
           </p>
         </div>
 

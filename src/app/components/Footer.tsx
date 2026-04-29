@@ -107,7 +107,7 @@ export default function Footer() {
                 className="flex items-center gap-2 text-white/60 text-sm hover:text-white transition-colors"
               >
                 <span>💬</span>
-                <span>WhatsApp — Chat with Ana</span>
+                <span>WhatsApp · Chat with Ana</span>
               </a>
               <a
                 href={`https://instagram.com/${IG_HANDLE}`}

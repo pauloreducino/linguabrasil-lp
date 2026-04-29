@@ -3,13 +3,13 @@ const differentials = [
     icon: "🌴",
     title: "Authentically Brazilian",
     description:
-      "Learn the Portuguese people actually speak in Brazil — the slang, the rhythm, the culture. Not just textbook language.",
+      "Learn the Portuguese people actually speak in Brazil: the slang, the rhythm, the culture. Not just textbook language.",
   },
   {
     icon: "📱",
     title: "100% Online & Flexible",
     description:
-      "Classes via Google Meet or Zoom, on your schedule. Morning, afternoon, or evening — whatever fits your life.",
+      "Classes via Google Meet or Zoom, on your schedule. Morning, afternoon, or evening. Whatever fits your life.",
   },
   {
     icon: "✍️",
@@ -27,13 +27,13 @@ const differentials = [
     icon: "💚",
     title: "Safe Learning Space",
     description:
-      "Mistakes are part of the journey. All levels welcome — beginners to advanced. Zero judgment, 100% support.",
+      "Mistakes are part of the journey. All levels welcome, from beginners to advanced. Zero judgment, 100% support.",
   },
   {
     icon: "🎵",
     title: "Culture-First Approach",
     description:
-      "Brazilian music, films, news, and humor make every lesson engaging. Language is culture — you'll learn both.",
+      "Brazilian music, films, news, and humor make every lesson engaging. Language is culture. You'll learn both.",
   },
 ];
 
@@ -118,7 +118,7 @@ export default function Differentials() {
               Not sure yet? Try before you commit.
             </p>
             <p className="text-white/70 text-base">
-              Your first class is completely free — no credit card, no pressure.
+              Your first class is completely free. No credit card, no pressure.
             </p>
           </div>
           <a

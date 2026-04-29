@@ -4,7 +4,7 @@ const steps = [
     icon: "🎯",
     title: "Personalized Diagnosis",
     description:
-      "We start with a free conversation to understand your current level, learning style, goals, and interests. No generic textbook path — your journey is designed for you.",
+      "We start with a free conversation to understand your current level, learning style, goals, and interests. No generic textbook path. Your journey is designed for you.",
     highlight: "100% tailored to you",
   },
   {
@@ -12,7 +12,7 @@ const steps = [
     icon: "🗣️",
     title: "Immersive Conversation",
     description:
-      "From day one, we speak Portuguese. Real dialogues, authentic cultural content, Brazilian music, podcasts, and videos — because fluency comes from living the language.",
+      "From day one, we speak Portuguese. Real dialogues, authentic cultural content, Brazilian music, podcasts, and videos. Fluency comes from living the language.",
     highlight: "Real language from day 1",
   },
   {
@@ -20,7 +20,7 @@ const steps = [
     icon: "🧠",
     title: "Contextual Grammar",
     description:
-      "Grammar is taught in context — the way you actually encounter it in real conversation. No boring drills. Rules make sense because you see how they work in practice.",
+      "Grammar is taught in context, the way you actually encounter it in real conversation. No boring drills. Rules make sense because you see how they work in practice.",
     highlight: "Natural, not mechanical",
   },
   {

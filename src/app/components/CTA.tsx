@@ -11,14 +11,14 @@ const faqs = [
   },
   {
     q: "What platform do we use?",
-    a: "Google Meet or Zoom — whatever works best for you. All you need is an internet connection.",
+    a: "Google Meet or Zoom, whatever works best for you. All you need is an internet connection.",
   },
   {
     q: "How quickly will I see results?",
     a: "Most students have their first real conversation within 3 months. Results depend on your commitment, but our method is built to accelerate progress.",
   },
   {
-    q: "I'm a complete beginner — is that okay?",
+    q: "I'm a complete beginner. Is that okay?",
     a: "Absolutely! We love beginners. The method is designed to work from zero, and we move at exactly the pace that's comfortable for you.",
   },
 ];
@@ -97,7 +97,7 @@ export default function CTA() {
               </h2>
               <p className="text-white/75 text-lg md:text-xl max-w-xl mx-auto mb-8 leading-relaxed">
                 No commitment. No credit card. Just a friendly 50-minute
-                conversation to see if we&apos;re the right fit — and to get
+                conversation to see if we&apos;re the right fit, and to get
                 you speaking Portuguese from day one.
               </p>
 
@@ -141,7 +141,7 @@ export default function CTA() {
                   <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z" />
                   <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.057 23.886a.5.5 0 00.611.61l6.101-1.524A11.946 11.946 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818c-1.902 0-3.682-.515-5.204-1.411l-.37-.217-3.862.964.984-3.775-.24-.388A9.799 9.799 0 012.182 12C2.182 6.57 6.57 2.182 12 2.182c5.43 0 9.818 4.388 9.818 9.818 0 5.43-4.388 9.818-9.818 9.818z" />
                 </svg>
-                Schedule on WhatsApp — It&apos;s Free!
+                Schedule on WhatsApp. It&apos;s Free!
               </a>
 
               <p className="mt-4 text-white/50 text-sm">
