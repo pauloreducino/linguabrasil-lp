@@ -9,9 +9,23 @@ const WA_URL = `https://wa.me/${WA_NUMBER}?text=${WA_MESSAGE}`;
 export default function Hero() {
   return (
     <section
-      className="relative min-h-screen flex items-center overflow-hidden tropical-bg pt-24 pb-16 md:pt-28 md:pb-24"
-      style={{ backgroundColor: "var(--color-cream)" }}
+      className="relative min-h-screen flex items-center overflow-hidden pt-24 pb-16 md:pt-28 md:pb-24"
+      style={{
+        backgroundImage: "url('/hero/rio-de-janeiro.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center top",
+      }}
     >
+      {/* Overlay: cream opaque on the left for text readability, fades to dark-transparent on the right */}
+      <div
+        className="absolute inset-0 pointer-events-none"
+        aria-hidden="true"
+        style={{
+          background:
+            "linear-gradient(to right, rgba(248,240,220,0.96) 0%, rgba(248,240,220,0.92) 40%, rgba(248,240,220,0.60) 65%, rgba(20,45,35,0.45) 100%)",
+        }}
+      />
+
       {/* Background decorative elements */}
       <div
         className="absolute inset-0 pointer-events-none"
